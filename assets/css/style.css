@@ -160,3 +160,15 @@ span {
     font-size: 3rem;
   }
 }
+
+@media screen and (max-width: 525px) {
+  .crypto-card {
+    flex-basis: 14rem;
+  }
+}
+
+@media screen and (max-width: 327px) {
+  .crypto-card {
+    flex-basis: 8rem;
+  }
+}
