@@ -3,4 +3,5 @@
 _Dashboard_ made in HTML, CSS and JavaScript.
 
 API used in this project: _https://docs.coincap.io/_
+
 Default panel refresh rate: _3 seconds_
