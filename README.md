@@ -5,3 +5,6 @@ _Dashboard_ made in HTML, CSS and JavaScript.
 API used in this project: _https://docs.coincap.io/_
 
 Default panel refresh rate: _3 seconds_
+
+
+Clique no link para ver o painel online: https://jefferson-alves-dev.github.io/cryptocurrency-variation-panel/
